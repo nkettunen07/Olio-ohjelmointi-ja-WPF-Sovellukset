@@ -1,0 +1,14 @@
+C:\Users\nikke.kettunen\source\repos\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\OlioJaWPFSovellukset\Harjoitus1\bin\Debug\net6.0\Harjoitus1.exe
+C:\Users\nikke.kettunen\source\repos\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\OlioJaWPFSovellukset\Harjoitus1\bin\Debug\net6.0\Harjoitus1.deps.json
+C:\Users\nikke.kettunen\source\repos\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\OlioJaWPFSovellukset\Harjoitus1\bin\Debug\net6.0\Harjoitus1.runtimeconfig.json
+C:\Users\nikke.kettunen\source\repos\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\OlioJaWPFSovellukset\Harjoitus1\bin\Debug\net6.0\Harjoitus1.dll
+C:\Users\nikke.kettunen\source\repos\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\OlioJaWPFSovellukset\Harjoitus1\bin\Debug\net6.0\Harjoitus1.pdb
+C:\Users\nikke.kettunen\source\repos\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\OlioJaWPFSovellukset\Harjoitus1\obj\Debug\net6.0\Harjoitus1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikke.kettunen\source\repos\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\OlioJaWPFSovellukset\Harjoitus1\obj\Debug\net6.0\Harjoitus1.AssemblyInfoInputs.cache
+C:\Users\nikke.kettunen\source\repos\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\OlioJaWPFSovellukset\Harjoitus1\obj\Debug\net6.0\Harjoitus1.AssemblyInfo.cs
+C:\Users\nikke.kettunen\source\repos\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\OlioJaWPFSovellukset\Harjoitus1\obj\Debug\net6.0\Harjoitus1.csproj.CoreCompileInputs.cache
+C:\Users\nikke.kettunen\source\repos\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\OlioJaWPFSovellukset\Harjoitus1\obj\Debug\net6.0\Harjoitus1.dll
+C:\Users\nikke.kettunen\source\repos\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\OlioJaWPFSovellukset\Harjoitus1\obj\Debug\net6.0\refint\Harjoitus1.dll
+C:\Users\nikke.kettunen\source\repos\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\OlioJaWPFSovellukset\Harjoitus1\obj\Debug\net6.0\Harjoitus1.pdb
+C:\Users\nikke.kettunen\source\repos\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\OlioJaWPFSovellukset\Harjoitus1\obj\Debug\net6.0\Harjoitus1.genruntimeconfig.cache
+C:\Users\nikke.kettunen\source\repos\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\OlioJaWPFSovellukset\Harjoitus1\obj\Debug\net6.0\ref\Harjoitus1.dll
