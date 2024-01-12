@@ -1,0 +1,14 @@
+C:\Users\nikke.kettunen\source\repos\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\OlioJaWPFSovellukset\Harjoitus3 (KT)\bin\Debug\net6.0\Harjoitus3 (KT).exe
+C:\Users\nikke.kettunen\source\repos\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\OlioJaWPFSovellukset\Harjoitus3 (KT)\bin\Debug\net6.0\Harjoitus3 (KT).deps.json
+C:\Users\nikke.kettunen\source\repos\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\OlioJaWPFSovellukset\Harjoitus3 (KT)\bin\Debug\net6.0\Harjoitus3 (KT).runtimeconfig.json
+C:\Users\nikke.kettunen\source\repos\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\OlioJaWPFSovellukset\Harjoitus3 (KT)\bin\Debug\net6.0\Harjoitus3 (KT).dll
+C:\Users\nikke.kettunen\source\repos\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\OlioJaWPFSovellukset\Harjoitus3 (KT)\bin\Debug\net6.0\Harjoitus3 (KT).pdb
+C:\Users\nikke.kettunen\source\repos\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\OlioJaWPFSovellukset\Harjoitus3 (KT)\obj\Debug\net6.0\Harjoitus3 (KT).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikke.kettunen\source\repos\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\OlioJaWPFSovellukset\Harjoitus3 (KT)\obj\Debug\net6.0\Harjoitus3 (KT).AssemblyInfoInputs.cache
+C:\Users\nikke.kettunen\source\repos\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\OlioJaWPFSovellukset\Harjoitus3 (KT)\obj\Debug\net6.0\Harjoitus3 (KT).AssemblyInfo.cs
+C:\Users\nikke.kettunen\source\repos\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\OlioJaWPFSovellukset\Harjoitus3 (KT)\obj\Debug\net6.0\Harjoitus3 (KT).csproj.CoreCompileInputs.cache
+C:\Users\nikke.kettunen\source\repos\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\OlioJaWPFSovellukset\Harjoitus3 (KT)\obj\Debug\net6.0\Harjoitus3 (KT).dll
+C:\Users\nikke.kettunen\source\repos\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\OlioJaWPFSovellukset\Harjoitus3 (KT)\obj\Debug\net6.0\refint\Harjoitus3 (KT).dll
+C:\Users\nikke.kettunen\source\repos\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\OlioJaWPFSovellukset\Harjoitus3 (KT)\obj\Debug\net6.0\Harjoitus3 (KT).pdb
+C:\Users\nikke.kettunen\source\repos\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\OlioJaWPFSovellukset\Harjoitus3 (KT)\obj\Debug\net6.0\Harjoitus3 (KT).genruntimeconfig.cache
+C:\Users\nikke.kettunen\source\repos\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\OlioJaWPFSovellukset\Harjoitus3 (KT)\obj\Debug\net6.0\ref\Harjoitus3 (KT).dll
