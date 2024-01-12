@@ -11,12 +11,6 @@ namespace Harjoitus1
         public string Nimi { get; set; }
         public int Nopeus { get; set; }
         public int Renkaat { get; set; }
-        public Ajoneuvo(string _Nimi, int _Nopeus, int _Renkaat)
-        {
-            Nimi = _Nimi;
-            Nopeus = _Nopeus;
-            Renkaat = _Renkaat;
-        }
 
         public void TulostaData()
         {
