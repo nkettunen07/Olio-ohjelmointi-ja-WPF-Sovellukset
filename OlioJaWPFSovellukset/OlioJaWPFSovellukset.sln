@@ -3,13 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34221.43
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Harjoitus1", "Harjoitus1\Harjoitus1.csproj", "{BEDD947D-140B-44C4-A981-75BDE7786CC2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Harjoitus1", "Harjoitus1\Harjoitus1.csproj", "{BEDD947D-140B-44C4-A981-75BDE7786CC2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Harjoitus2", "Harjoitus2\Harjoitus2.csproj", "{28775757-EB8B-4C74-88A1-7BFCB44FE931}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Harjoitus2", "Harjoitus2\Harjoitus2.csproj", "{28775757-EB8B-4C74-88A1-7BFCB44FE931}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Harjoitus3 (KT)", "Harjoitus3 (KT)\Harjoitus3 (KT).csproj", "{7EA61CDC-FE44-4A60-BED0-66C796FCE11D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Harjoitus3 (KT)", "Harjoitus3 (KT)\Harjoitus3 (KT).csproj", "{7EA61CDC-FE44-4A60-BED0-66C796FCE11D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Harjoitus4", "Harjoitus4\Harjoitus4.csproj", "{5C73ABC9-DBF0-4660-9897-AC290019C6EA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Harjoitus4", "Harjoitus4\Harjoitus4.csproj", "{5C73ABC9-DBF0-4660-9897-AC290019C6EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Harjoitus 5", "Harjoitus 5\Harjoitus 5.csproj", "{4FAFAA73-4C03-40D4-8BCC-427E1F01C9CB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Harjoitus6", "Harjoitus6\Harjoitus6.csproj", "{A53CC623-038A-4E87-AB00-645BA4DBA94B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +37,14 @@ Global
 		{5C73ABC9-DBF0-4660-9897-AC290019C6EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5C73ABC9-DBF0-4660-9897-AC290019C6EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5C73ABC9-DBF0-4660-9897-AC290019C6EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FAFAA73-4C03-40D4-8BCC-427E1F01C9CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FAFAA73-4C03-40D4-8BCC-427E1F01C9CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FAFAA73-4C03-40D4-8BCC-427E1F01C9CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FAFAA73-4C03-40D4-8BCC-427E1F01C9CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A53CC623-038A-4E87-AB00-645BA4DBA94B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A53CC623-038A-4E87-AB00-645BA4DBA94B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A53CC623-038A-4E87-AB00-645BA4DBA94B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A53CC623-038A-4E87-AB00-645BA4DBA94B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
