@@ -16,7 +16,7 @@ Henkilö Työntekijä7 = new Työntekijä("C", "C", 10, 6);
 Console.WriteLine(Työntekijä7);
 Henkilö Työntekijä8 = new Työntekijä("A", "C", 10, 6);
 Console.WriteLine(Työntekijä8);
-Henkilö Pomo = new Pomo("B", "C", 20, 300, "yutong");
+Henkilö Pomo = new Pomo("B", "C", 20, 300, "yutong"); //
 Console.WriteLine(Pomo);
 try
 {
