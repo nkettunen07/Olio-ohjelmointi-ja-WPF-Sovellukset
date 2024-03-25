@@ -9,3 +9,5 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Harjoitus3__KT_
 build_property.ProjectDir = C:\Users\nikke.kettunen\source\repos\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\OlioJaWPFSovellukset\Harjoitus3 (KT)\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
