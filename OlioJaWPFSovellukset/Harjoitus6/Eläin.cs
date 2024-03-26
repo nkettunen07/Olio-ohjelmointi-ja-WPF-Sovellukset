@@ -8,7 +8,7 @@ namespace Harjoitus6
 {
     public class Eläin
     {
-        public static int Olemassa = 0;
+        public static int Olemassa { get; set; } = 0;
         public virtual string? Tyyppi {  get; set; }
         public virtual void OlemassaOlevat()
         {

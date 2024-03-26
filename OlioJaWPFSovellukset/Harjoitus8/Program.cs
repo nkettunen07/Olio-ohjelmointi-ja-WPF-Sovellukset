@@ -4,6 +4,7 @@ internal class Program
 {
     private static void Main(string[] args)
     {
+        // Tehdään työntekijöitä...!!!!
         Henkilö Työntekijä1 = new Työntekijä("N", "C", 10, 6);
         Console.WriteLine(Työntekijä1);
         Henkilö Työntekijä2 = new Työntekijä("H", "C", 10, 6);
@@ -20,8 +21,11 @@ internal class Program
         Console.WriteLine(Työntekijä7);
         Henkilö Työntekijä8 = new Työntekijä("A", "C", 10, 6);
         Console.WriteLine(Työntekijä8);
+
+        // Tehdään pomo!
         Henkilö Pomo = new Pomo("B", "C", 20, 300, "yutong"); //
         Console.WriteLine(Pomo);
+        // Tehdään toinen pomo!
         try
         {
             Console.WriteLine("Tehdään toinen pomo.");
@@ -30,6 +34,7 @@ internal class Program
         }
         catch (Exception e)
         {
+            // Ei toiminut!
             Console.WriteLine(e.Message);
         }
     }

@@ -8,7 +8,7 @@ namespace Harjoitus7
 {
     internal class Hissi
     {
-        private static int _kerros;
+        private static int _kerros { get; set; }
         private int Kerros
         {
             get 

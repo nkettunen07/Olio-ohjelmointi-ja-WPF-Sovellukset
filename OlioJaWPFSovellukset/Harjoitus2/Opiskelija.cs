@@ -21,9 +21,9 @@ namespace Harjoitus2
         {
             Console.WriteLine("nimi: " + Nimi + " OpiskelijaID: " + OpiskelijaID + " Opintopisteet: " + Opintopisteet);
         }
-        public void MuokkaaOpintopisteitä(int i)
+        public void MuokkaaOpintopisteitä(int _uusiOpintopisteet)
         {
-            Opintopisteet = i;
+            Opintopisteet = _uusiOpintopisteet;
         }
     }
 }

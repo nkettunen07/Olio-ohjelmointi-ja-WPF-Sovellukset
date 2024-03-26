@@ -8,5 +8,10 @@ namespace Harjoitus10
 {
     internal class Animal
     {
+        public string Name { get; set; } = "";
+        public void MakeASound()
+        {
+            Console.WriteLine("Miau"); // :3
+        }
     }
 }

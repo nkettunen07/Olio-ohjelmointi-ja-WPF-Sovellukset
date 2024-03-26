@@ -8,5 +8,7 @@ namespace Harjoitus10
 {
     internal interface ICanFly
     {
+        public int WingSize { get; set; }
+        public void Fly();
     }
 }

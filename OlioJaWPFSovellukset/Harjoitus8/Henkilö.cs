@@ -8,16 +8,16 @@ namespace Harjoitus8
 {
     public abstract class Henkilö
     {
-        public string? Nimi;
-        public string? Työpaikka;
-        public int Palkka; // kk
+        public string? Nimi { get; set; }
+        public string? Työpaikka { get; set; }
+        public int Palkka { get; set; } // kk
 
 
-        public static int Pomoja = 0;
+        public static int Pomoja { get; set; } = 0;
     }
     public class Työntekijä : Henkilö
     {
-        public int ViikottaisetTunnit;
+        public int ViikottaisetTunnit { get; set; }
         public Työntekijä(string nimi, string työpaikka, int palkka, int _vt)
         {
             Nimi = nimi;
@@ -29,8 +29,8 @@ namespace Harjoitus8
     }
     public class Pomo : Henkilö
     {
-        public int bonus;
-        public string auto;
+        public int Bonus { get; set; }
+        public string Auto { get; set; }
         public Pomo(string nimi, string työpaikka, int palkka, int _bonus, string _auto)
         {
             if(Pomoja >= 1)
@@ -40,8 +40,8 @@ namespace Harjoitus8
             Nimi = nimi;
             Työpaikka = työpaikka;
             Palkka = palkka;
-            bonus = _bonus;
-            auto = _auto;
+            Bonus = _bonus;
+            Auto = _auto;
             Pomoja += 1;
         }
     }

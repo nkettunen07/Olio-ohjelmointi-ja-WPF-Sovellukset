@@ -8,9 +8,9 @@ namespace Harjoitus9
 {
     internal class Radio
     {
-        public bool Päällä = false; //true-false
-        public int Äänenvoimakkuus = 0; // 0-9
-        public double Taajuusvalinta = 88.0; // 88.0 - 107.9
+        public bool Päällä { get; set; } = false; //true-false
+        public int Äänenvoimakkuus { get; set; } = 0; // 0-9
+        public double Taajuusvalinta { get; set; } = 88.0; // 88.0 - 107.9
         public void AsetaÄänenvoimakkuus(int _uusiVoimakkuus)
         {
             if(_uusiVoimakkuus >= 0 && _uusiVoimakkuus <= 9)

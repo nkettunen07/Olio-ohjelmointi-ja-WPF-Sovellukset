@@ -8,8 +8,8 @@ namespace Harjoitus9
 {
     internal class Kanava
     {
-        public string Nimi;
-        public double Taajuus; //88.0-107.9
+        public string? Nimi { get; set; }
+        public double Taajuus { get; set; } //88.0-107.9
         public Kanava(string _nimi, double _taajuus)
         {
             if(_taajuus >= 88.0 && _taajuus <= 107.9)

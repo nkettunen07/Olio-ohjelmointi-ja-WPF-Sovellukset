@@ -15,11 +15,7 @@ namespace Harjoitus1
         public void TulostaData()
         {
             // Mun pää hajos :3
-            Console.WriteLine(ToString());
-        }
-        public string ToString()
-        {
-            return Nimi + " " + Nopeus + "km/h " + Renkaat + " rengasta";
+            Console.WriteLine(Nimi + " " + Nopeus + "km/h " + Renkaat + " rengasta");
         }
     }
 }
