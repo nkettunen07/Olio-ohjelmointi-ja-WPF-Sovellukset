@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Harjoitus_5
+namespace Harjoitus5
 {
     public class Laskin
     {
