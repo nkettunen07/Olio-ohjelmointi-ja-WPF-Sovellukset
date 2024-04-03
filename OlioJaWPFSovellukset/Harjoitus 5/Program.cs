@@ -4,7 +4,7 @@ internal class Program
 {
     private static void Main(string[] args)
     {
-        // Lasketaan numeroita.
+        // Lasketaan numeroita...
         float Summa = Laskin.Summa(1, 2);
         float Erotus = Laskin.Erotus(1, 2);
         float Kerto = Laskin.Kertolasku(1, 2);
