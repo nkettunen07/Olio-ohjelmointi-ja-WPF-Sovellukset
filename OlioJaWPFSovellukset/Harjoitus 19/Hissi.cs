@@ -4,28 +4,29 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Harjoitus7
+namespace Harjoitus_19
 {
     internal class Hissi
     {
         private static int _kerros { get; set; }
         private int Kerros
         {
-            get 
-            { 
+            get
+            {
                 return _kerros;
             }
             set
             {
-                if(value >= 1 && value <= 6)
+                // value voi olla vain 1-6 väliltä
+                if (value >= 1 && value <= 6)
                 {
-                    // Hissi hyväksyi. asetetaan kerros uuteen.
                     _kerros = value;
-                    Console.WriteLine($"Hissi on nyt kerroksessa {_kerros}");
-                } else
+                    //Console.WriteLine($"Hissi on nyt kerroksessa {_kerros}");
+                }
+                else
                 {
-                    // Hissi EI hyväksyny. loggaa konsoliin.
-                    Console.WriteLine($"Antamasi kerros ei ole valitettavasti toimiva kerros. Anna kerros väliltä 1-6");
+                    // koska olemme WPF sovelluksessa... Nämä console.writelinet ovat turhia.
+                    //Console.WriteLine($"Antamasi kerros ei ole valitettavasti toimiva kerros. Anna kerros väliltä 1-6");
                 }
             }
         }
