@@ -1,0 +1,17 @@
+﻿<Window x:Class="Harjoitus_17.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Harjoitus_17"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <TextBox x:Name="Lämpötila" HorizontalAlignment="Left" Margin="33,358,0,0" TextWrapping="Wrap" Text="20" VerticalAlignment="Top" Width="120" TextChanged="Lämpötila_TextChange" />
+        <TextBlock x:Name="TaloTeksti" HorizontalAlignment="Center" Margin="0,113,0,0" TextWrapping="Wrap" Text="Lämpötila: 20 celsius, Keittiövalot pois, Olohuoneen valot pois, Ovi ei ole lukossa" VerticalAlignment="Top" Width="718"/>
+        <CheckBox x:Name="KeittiöValot" Content="Keittiö valot" HorizontalAlignment="Left" Margin="245,376,0,0" VerticalAlignment="Top" Click="KeittiöValot_PäällePois"/>
+        <CheckBox x:Name="OlohuoneenValot" Content="Olohuoneen valot" HorizontalAlignment="Center" Margin="245,376,0,0" VerticalAlignment="Top" Click="OlohuoneenValot_PäällePois"/>
+        <CheckBox x:Name="OviLukossa" Content="Ovi lukossa" HorizontalAlignment="Right" Margin="245,376,100,0" VerticalAlignment="Top" Click="OviLukossa_PäällePois"/>
+
+    </Grid>
+</Window>
