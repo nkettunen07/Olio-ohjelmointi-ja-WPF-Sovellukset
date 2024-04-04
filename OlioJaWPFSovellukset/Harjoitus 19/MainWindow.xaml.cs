@@ -26,7 +26,7 @@ namespace Harjoitus_19
         {
             InitializeComponent();
         }
-        // Kävin katsoo ratkaisun ja mitä v--- tän saa näin helposti tehtyä?
+        // Kävin katsoo ratkaisun ja mitä v---. tän miten tein, saa näin helposti tehtyä mut sit ratkaisu on noin pitkä.
         // ohhoh..............................................................
         // HEI SE TOIMII MITEN HALUTTIIN!
         private void HissiKerrosTB_Valid(object sender, TextCompositionEventArgs e)
