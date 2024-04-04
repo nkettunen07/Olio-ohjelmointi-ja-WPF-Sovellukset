@@ -26,7 +26,9 @@ namespace Harjoitus_19
         {
             InitializeComponent();
         }
-
+        // Kävin katsoo ratkaisun ja mitä v--- tän saa näin helposti tehtyä?
+        // ohhoh..............................................................
+        // HEI SE TOIMII MITEN HALUTTIIN!
         private void HissiKerrosTB_Valid(object sender, TextCompositionEventArgs e)
         {
             // Jos on INT, niin koitetaan asettaa kerros siihen:
