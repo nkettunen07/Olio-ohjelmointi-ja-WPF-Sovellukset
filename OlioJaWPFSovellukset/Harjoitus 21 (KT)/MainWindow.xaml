@@ -1,0 +1,22 @@
+﻿<Window Background="AliceBlue" FontFamily="Segoe UI" x:Class="Harjoitus_21__KT_.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Harjoitus_21__KT_"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <CheckBox x:Name="maito" Content="Maito" HorizontalAlignment="Left" Margin="36,28,0,0" VerticalAlignment="Top" Click="renderSP" />
+        <CheckBox x:Name="limsa" Content="Limsa" HorizontalAlignment="Left" Margin="36,108,0,0" VerticalAlignment="Top" Click="renderSP"/>
+        <CheckBox x:Name="peruna" Content="Peruna" HorizontalAlignment="Left" Margin="36,88,0,0" VerticalAlignment="Top" Click="renderSP"/>
+        <CheckBox x:Name="kananliha" Content="Kananliha" HorizontalAlignment="Left" Margin="36,68,0,0" VerticalAlignment="Top" Click="renderSP"/>
+        <CheckBox x:Name="kananwings" Content="Kanan Wings" HorizontalAlignment="Left" Margin="36,48,0,0" VerticalAlignment="Top" Click="renderSP"/>
+        <StackPanel x:Name="ostoskori" Margin="185,0,0,0">
+        </StackPanel>
+        <Button Content="osta tai jotai" HorizontalAlignment="Left" Margin="36,159,0,0" VerticalAlignment="Top" Click="Osta"/>
+        <Image Height="100" Width="207" Source="/Youtube_logo.png" RenderTransformOrigin="1.928,3.221" Margin="614,334,-21,0"/>
+        <Label Content="Tervetuloa ostoksille" FontSize="70" HorizontalAlignment="Left" Margin="10,335,0,0" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>
