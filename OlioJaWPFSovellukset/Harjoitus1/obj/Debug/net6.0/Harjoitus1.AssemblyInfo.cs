@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Harjoitus1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+78b9cef0b67ff323e8cc917a07e8e602a26dcc7e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1c7cd51d35136542f02fd9a00bbffc17f82601ae")]
 [assembly: System.Reflection.AssemblyProductAttribute("Harjoitus1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Harjoitus1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
