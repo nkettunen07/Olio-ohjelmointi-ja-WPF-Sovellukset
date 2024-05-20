@@ -1,0 +1,16 @@
+﻿<Window x:Class="Harjoitus_25.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Harjoitus_25"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <DataGrid HorizontalAlignment="Left" x:Name="JoukkueDG" Margin="0,105,0,0" Width="400"/>
+        <DataGrid HorizontalAlignment="Right" x:Name="PelaajaDG" Margin="0,105,0,0" Width="400"/>
+        <Button Content="Uusi joukkue" HorizontalAlignment="Left" Margin="328,80,0,0" VerticalAlignment="Top" Click="UusiJoukkue_Click"/>
+        <Button Content="Uusi pelaaja" HorizontalAlignment="Right" Margin="0,80,328,0" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>
